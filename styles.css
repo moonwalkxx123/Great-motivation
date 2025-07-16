@@ -1,0 +1,20 @@
+body {
+    background-color: #F3BDBC;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    color: #58629F;
+    margin-top: 100px;
+}
+
+.cat-yawning {
+    width: 100%;
+    border: 10px solid white;
+}
+
+
+
